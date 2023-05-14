@@ -1,7 +1,7 @@
 # Data Sourcing Project
 ### Author: Fernanda Padilla
 
-# Overview
+## Overview
 Collect and assemble data from several different sources and formats.
   Source 1 - web scraping
   Source 2 - delimitted file
