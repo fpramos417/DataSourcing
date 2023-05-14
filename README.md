@@ -1,4 +1,5 @@
 # Data Sourcing Project
+### Instructor: Dr. Jeffrey Roberts
 ### Author: Fernanda Padilla
 
 ## Overview
