@@ -1,4 +1,4 @@
-# Data Sourcing Project
+# Locations Project
 ### Instructor: Dr. Jeffrey Roberts
 ### Author: Fernanda Padilla
 
